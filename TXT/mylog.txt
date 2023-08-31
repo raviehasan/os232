@@ -1,4 +1,4 @@
-ZCZC W00 30 L00 Setting up repository, github page, etc.
+ZCZC W00 30 L09 Working on week 00's assignments (etting up repository, github page, etc.)
 ZCZC w00 5 L05 Installing SEB and trying out dummy quiz
 ZCZC W00 100 L02 Tuesday's synchronous class
 ZCZC W00 100 L02 Thursday's synchronous class
