@@ -1,3 +1,14 @@
+ZCZC W01 30 L01 SCeLE related
+ZCZC W01 75 L05 Quiz related, including studying
+ZCZC W01 270 L09 Assignment in General, including reading assignment
+ZCZC W01 100 L02 Tuesday's synchronous class
+ZCZC W01 100 L02 Thursday's synchronous class
+ZCZC W01 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 40 L03 GitHub related (editing with vim/vi on power shell)
+ZCZC W01 20 L04 GitHub Page related
+ZCZC W01 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W01 40 L09 Finishing up assignments
 ZCZC W00 30 L09 Working on week 00's assignments (setting up repository, github page, etc.)
 ZCZC w00 5 L05 Installing SEB and trying out dummy quiz
 ZCZC W00 100 L02 Tuesday's synchronous class
@@ -6,12 +17,3 @@ ZCZC W00 20 L01 SCeLE related
 ZCZC W00 120 L09 Working on week 00's assignments (reading assignment, exercising from midterm W00, etc.)
 ZCZC W00 45 L06 Studying OS material from other sources (YouTube, Google, etc.)
 ZCZC W00 60 L05 Quiz related
-
-ZCZC W01 30 L01 SCeLE related
-ZCZC W01 75 L05 Quiz related, including studying
-ZCZC W01 270 L09 Assignment in General, including reading assignment
-ZCZC W01 100 L02 Tuesday's synchronous class
-ZCZC W01 100 L02 Thursday's synchronous class
-ZCZC W01 30 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W01 40 L03 GitHub related (editing with vim/vi on power shell)
-ZCZC W01 20 L04 GitHub Page related
