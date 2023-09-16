@@ -1,3 +1,18 @@
+ZCZC W02 15 L01 SCeLE related
+ZCZC W02 100 L02 Tuesday's synchronous class
+ZCZC W02 45 L09 Assignment in General including reading assignment
+ZCZC W02 15 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 25 L07 Demo related
+ZCZC W02 15 L01 SCeLE related
+ZCZC W02 100 L02 Thursday's synchronous class
+ZCZC W02 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 80 L09 Assignment in General including popquiz
+ZCZC W02 15 L64 Helping a friend (OS related problem)
+ZCZC W02 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 25 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 90 L05 Quiz related including studying
+ZCZC W02 45 L09 Assignment in General including reading assignment
+ZCZC W02 25 L40 TXT/ related in general.
 ZCZC W01 30 L01 SCeLE related
 ZCZC W01 75 L05 Quiz related, including studying
 ZCZC W01 270 L09 Assignment in General, including reading assignment
