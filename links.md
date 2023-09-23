@@ -32,3 +32,12 @@ A 15 minute video which explains important basic commands and how to use regular
 This video talks about cyber security in a beginner friendly way. 
 Watch the first 15-20 minute and you'll understand the concept of cybersecurity.
 <hr>
+
+* [Tar Related](https://linuxhint.com/tar-folder-linux/) --- 
+This web talks about basic commands for .tar files for beginners such as how to tar a folder in Linux, how to view a tar folder in Linux, etc.
+<hr>
+
+* [Makefile to Compile C Program](https://stackoverflow.com/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program) --- 
+This particular stack overflow discussion talks about Makefile that will be used to compile a C program.
+After we compiled it using Makefile with "make" command, we will be able to run the C file and delete the unnecessary file.
+<hr>

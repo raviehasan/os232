@@ -1,3 +1,20 @@
+ZCZC W03 15 L01 SCeLE related
+ZCZC W03 60 L09 Assignment in General including reading assignment
+ZCZC W03 30 L07 Demo related
+ZCZC W03 100 L02 Tuesday's synchronous class
+ZCZC W03 15 L01 SCeLE related
+ZCZC W03 50 L09 Assignment in General (fixing disks problems)
+ZCZC W03 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 15 L40 TXT/ related in general.
+ZCZC W03 15 L01 SCeLE related
+ZCZC W03 100 L02 Thursday's synchronous class
+ZCZC W03 20 L25 C-language including Make
+ZCZC W03 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W03 40 L09 Assignment in General including reading assignment
+ZCZC W03 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 95 L05 Quiz related including studying
+ZCZC W03 20 L40 TXT/ related in general.
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 15 L01 SCeLE related
 ZCZC W02 100 L02 Tuesday's synchronous class
 ZCZC W02 45 L09 Assignment in General including reading assignment
@@ -25,7 +42,7 @@ ZCZC W01 20 L04 GitHub Page related
 ZCZC W01 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W01 40 L09 Finishing up assignments
 ZCZC W00 30 L09 Working on week 00's assignments (setting up repository, github page, etc.)
-ZCZC w00 5 L05 Installing SEB and trying out dummy quiz
+ZCZC W00 5 L05 Installing SEB and trying out dummy quiz
 ZCZC W00 100 L02 Tuesday's synchronous class
 ZCZC W00 100 L02 Thursday's synchronous class
 ZCZC W00 20 L01 SCeLE related
