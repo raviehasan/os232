@@ -1,3 +1,12 @@
+ZCZC W04 15 L01 SCeLE related
+ZCZC W04 30 L09 Assignment in General including reading assignment
+ZCZC W04 35 L07 Demo related
+ZCZC W04 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W04 100 L02 Tuesday's synchronous class
+ZCZC W04 10 L01 SCeLE related
+ZCZC W04 60 L09 Assignment in General
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 45 L40 TXT/ related in general
 ZCZC W03 15 L01 SCeLE related
 ZCZC W03 60 L09 Assignment in General including reading assignment
 ZCZC W03 30 L07 Demo related

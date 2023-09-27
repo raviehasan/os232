@@ -19,6 +19,10 @@ It's really helpful to start editing text with vi/vim.
 Even though the duration is kinda short, it's very informative.
 <hr>
 
+* [Vim Cheat Sheet](https://vim.rtorr.com/) ---
+A web page that provides the summary for vi/vim text editor commands.
+<hr>
+
 * [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU) --- 
 A beginner friendly video that explains some important basic linux commands that will be used very often.
 Once again, it's a short video with a bunch of useful information to get started with linux terminal commands.
@@ -40,4 +44,8 @@ This web talks about basic commands for .tar files for beginners such as how to 
 * [Makefile to Compile C Program](https://stackoverflow.com/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program) --- 
 This particular stack overflow discussion talks about Makefile that will be used to compile a C program.
 After we compiled it using Makefile with "make" command, we will be able to run the C file and delete the unnecessary file.
+<hr>
+
+* [How to Decrypt Tar](https://osp4diss.vlsm.org/W04-03.html) --- 
+A page from os.vlsm.org that talks about the step by step process on how to decrypt a .tar file.
 <hr>
