@@ -12,7 +12,7 @@ ZCZC W04 100 L02 Tuesday's synchronous class since there's no class on Thursday
 ZCZC W04 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 45 L09 Assignment in General including reading assignment
-ZCZC W02 25 L40 TXT/ related in general
+ZCZC W04 25 L40 TXT/ related in general
 ZCZC W04 90 L05 Studying for quiz
 ZCZC W03 15 L01 SCeLE related
 ZCZC W03 60 L09 Assignment in General including reading assignment
