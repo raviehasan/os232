@@ -54,6 +54,6 @@ A page from os.vlsm.org that talks about the step by step process on how to decr
 A web page that talks about copying files using cp commands.
 <hr>
 
-*[Remove Non Empty Directory in Linux](https://www.cyberciti.biz/faq/how-to-remove-non-empty-directory-in-linux/)
+* [Remove Non Empty Directory in Linux](https://www.cyberciti.biz/faq/how-to-remove-non-empty-directory-in-linux/) ---
 This particular web page talks about how to remove non empty directory in Linux.
 <hr>
