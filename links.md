@@ -49,3 +49,11 @@ After we compiled it using Makefile with "make" command, we will be able to run 
 * [How to Decrypt Tar](https://osp4diss.vlsm.org/W04-03.html) --- 
 A page from os.vlsm.org that talks about the step by step process on how to decrypt a .tar file.
 <hr>
+
+* [Copying Files](https://www.ibm.com/docs/en/aix/7.2?topic=files-copying-cp-command) ---
+A web page that talks about copying files using cp commands.
+<hr>
+
+*[Remove Non Empty Directory in Linux](https://www.cyberciti.biz/faq/how-to-remove-non-empty-directory-in-linux/)
+This particular web page talks about how to remove non empty directory in Linux.
+<hr>

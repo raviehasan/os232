@@ -1,3 +1,21 @@
+ZCZC W05 15 L01 SCeLE related
+ZCZC W05 20 L61 Backup and Clone Virtual Box
+ZCZC W05 70 L09 Assignment in General including reading assignment
+ZCZC W05 35 L07 Demo related
+ZCZC W05 100 L02 Thursday's synchronous class
+ZCZC W05 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 10 L01 SCeLE related
+ZCZC W05 50 L09 Assignment in General including reading assignment
+ZCZC W05 10 L01 SCeLE related
+ZCZC W05 30 L25 C-language including Make
+ZCZC W05 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 15 L40 TXT/ related in general.
+ZCZC W05 40 L09 Assignment in General including reading assignment
+ZCZC W05 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 85 L05 Studying for quiz
+ZCZC W05 20 L40 TXT/ related in general.
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 15 L01 SCeLE related
 ZCZC W04 30 L09 Assignment in General including reading assignment
 ZCZC W04 35 L07 Demo related
