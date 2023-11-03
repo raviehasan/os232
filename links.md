@@ -57,3 +57,7 @@ A web page that talks about copying files using cp commands.
 * [Remove Non Empty Directory in Linux](https://www.cyberciti.biz/faq/how-to-remove-non-empty-directory-in-linux/) ---
 This particular web page talks about how to remove non empty directory in Linux.
 <hr>
+
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- 
+This web page helps me understand about fork() in C. This web page also provides some code snippets so that it's easier to understand.
+<hr>
