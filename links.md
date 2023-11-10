@@ -61,3 +61,7 @@ This particular web page talks about how to remove non empty directory in Linux.
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- 
 This web page helps me understand about fork() in C. This web page also provides some code snippets so that it's easier to understand.
 <hr>
+
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=xtrnIgXkYtYGGTmV) ---
+This video talks about process synchronization, cooperating processes, brief recap of shared memory systems and producer-consumer problem, and race condition.
+<hr>
