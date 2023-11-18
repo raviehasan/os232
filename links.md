@@ -65,3 +65,11 @@ This web page helps me understand about fork() in C. This web page also provides
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=xtrnIgXkYtYGGTmV) ---
 This video talks about process synchronization, cooperating processes, brief recap of shared memory systems and producer-consumer problem, and race condition.
 <hr>
+
+* [Linux From Scratch - Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/) ---
+The Linux From Scratch version 12.0 book for VirtualBox (AMD64).
+<hr>
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+Videos that explains how to build linux from scratch (version 12.0). This playlist show every step in detail from beginning to end.
+<hr>

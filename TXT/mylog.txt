@@ -1,3 +1,16 @@
+ZCZC W08 15 L01 SCeLE related
+ZCZC W08 100 L02 Tuesday's synchronous class
+ZCZC W08 60 L09 Assignment in General including reading assignment and Pop Quiz
+ZCZC W08 35 L07 Demo related
+ZCZC W08 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 15 L01 SCeLE related
+ZCZC W08 90 L09 Assignment in General including reading assignment and Pop Quiz
+ZCZC W08 30 L40 TXT/ related in general including peer rank
+ZCZC W08 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 90 L09 Assignment in General including reading assignment and Pop Quiz
+ZCZC W08 40 L05 Quiz including studying for quiz
+ZCZC W08 80 L09 Assignment in General including reading assignment and Pop Quiz
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 15 L01 SCeLE related
 ZCZC W07 45 L09 Assignment in General including reading assignment and pop quizzes
 ZCZC W07 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
